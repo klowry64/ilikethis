@@ -62,7 +62,7 @@
     "vue-template-compiler": "^2.6.11"
   },
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   },
   "peerDependencies": {
     "launchdarkly-js-client-sdk": "^2.18.1"
